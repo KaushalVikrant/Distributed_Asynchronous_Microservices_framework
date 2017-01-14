@@ -1,4 +1,4 @@
-We worked on different modules of the project:
+We worked on different modules of the project: <br />
 1. API Gateway
 2. Data Ingestor
 3. Storm Detector
