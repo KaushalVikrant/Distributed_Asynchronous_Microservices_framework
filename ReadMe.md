@@ -20,3 +20,6 @@ Each module is present in its branch. Some modules have multiple braches as we d
 Each module is deployed as a different micro-service in Amazon EC2 instance using Amazon S3.
 
 We have used Travis CI and Amazon Codedeploy for Continuous Integration and Continuous Deployment.
+
+![alt tag](https://github.com/KaushalVikrant/Science_Gateway_Architecture/blob/master/Synchronous%20Architecture.png)
+![alt tag](https://github.com/KaushalVikrant/Science_Gateway_Architecture/blob/master/Asynchronous%20Architecture.png)
